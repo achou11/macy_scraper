@@ -1,0 +1,15 @@
+{
+  "name": "proxoshop_scraper",
+  "version": "1.0.0",
+  "description": "Scraper for Proxoshop interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Chou",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.6"
+  }
+}
